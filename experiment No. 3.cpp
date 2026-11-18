@@ -8,10 +8,7 @@ int main()
     stack<char> s;
     bool valid = true;
 	
-	cout <<"\n name:deepali pardhi";
-    cout <<"\n div:B";
-    cout <<"\n roll no.:214";
-    cout <<"\n =======output=======";
+	
     cout << "\n Enter Expression: ";
     cin >> exp;
 
